@@ -1,6 +1,6 @@
 <script>
 	export let name;
-    let count=0;
+    let count=10;
 </script>
 
 <main>
